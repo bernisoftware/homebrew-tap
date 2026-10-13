@@ -2,8 +2,8 @@
 #   brew install --cask bernisoftware/tap/bawake
 # Update version and sha256 (build/release/SHA256.txt) after each release.
 cask "bawake" do
-  version "1.1.0"
-  sha256 "3319ad08dbc35bbe3f7b7350bf562ddd15984688097ceb844673ab8200080b3a"
+  version "1.1.1"
+  sha256 "33065083c664ee464a5ba807ebf61085d30590608f0662c366e25354e620776b"
 
   url "https://github.com/bernisoftware/bawake/releases/download/v#{version}/bAwake-#{version}.dmg"
   name "bAwake"
